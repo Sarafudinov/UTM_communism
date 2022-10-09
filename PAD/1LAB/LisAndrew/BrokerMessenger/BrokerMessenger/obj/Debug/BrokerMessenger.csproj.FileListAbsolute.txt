@@ -1,0 +1,8 @@
+C:\repos\pad\BrokerMessenger\BrokerMessenger\bin\Debug\BrokerMessenger.exe.config
+C:\repos\pad\BrokerMessenger\BrokerMessenger\bin\Debug\BrokerMessenger.exe
+C:\repos\pad\BrokerMessenger\BrokerMessenger\bin\Debug\BrokerMessenger.pdb
+C:\repos\pad\BrokerMessenger\BrokerMessenger\obj\Debug\BrokerMessenger.csproj.AssemblyReference.cache
+C:\repos\pad\BrokerMessenger\BrokerMessenger\obj\Debug\BrokerMessenger.csproj.SuggestedBindingRedirects.cache
+C:\repos\pad\BrokerMessenger\BrokerMessenger\obj\Debug\BrokerMessenger.csproj.CoreCompileInputs.cache
+C:\repos\pad\BrokerMessenger\BrokerMessenger\obj\Debug\BrokerMessenger.exe
+C:\repos\pad\BrokerMessenger\BrokerMessenger\obj\Debug\BrokerMessenger.pdb
