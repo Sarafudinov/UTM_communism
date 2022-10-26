@@ -1,0 +1,154 @@
+R1
+
+en
+conf t
+int gigabitEthernet0/0/0
+description Link_to_host
+ip address 172.16.10.1 255.255.255.0
+no sh
+exit
+int serial 0/1/0
+description Link_to_R2
+clock rate 56000
+ip address 172.16.20.1 255.255.255.252
+no sh
+exit
+exit
+
+en
+conf t
+ip route 172.16.30.0 255.255.255.0 172.16.20.2
+ip route 172.16.40.0 255.255.255.0 172.16.20.2
+ip route 172.16.50.0 255.255.255.0 172.16.40.2
+ip route 172.16.60.0 255.255.255.0 172.16.40.2
+ip route 172.16.70.0 255.255.255.0 172.16.60.2
+exit
+
+R2
+
+en
+conf t
+int gigabitEthernet0/0/0
+description Link_to_host
+ip address 172.16.30.1 255.255.255.0
+no sh
+exit
+int serial 0/1/0
+clock rate 56000
+ip address 172.16.20.2 255.255.255.252
+no sh
+description Link_to_R2
+exit
+int serial 0/1/1
+clock rate 56000
+ip address 172.16.40.1 255.255.255.252
+no sh
+description Link_to_R4
+exit
+exit
+
+en
+conf t
+ip route 172.16.10.0 255.255.255.0 serial 0/1/0
+ip route 172.16.50.0 255.255.255.0 serial 0/1/1
+ip route 172.16.60.0 255.255.255.0 172.16.40.2
+ip route 172.16.70.0 255.255.255.0 172.16.60.2
+exit
+
+
+R3
+
+en
+conf t
+int gigabitEthernet0/0/0
+description Link_to_host
+ip address 172.16.50.1 255.255.255.0
+no sh
+exit
+int serial 0/1/0
+clock rate 56000
+ip address 172.16.40.2 255.255.255.252
+no sh
+description Link_to_R2
+exit
+int serial 0/1/1
+clock rate 56000
+ip address 172.16.60.1 255.255.255.252
+no sh
+description Link_to_R4
+exit
+exit
+
+en
+conf t
+ip route 172.16.30.0 255.255.255.0 serial 0/1/0
+ip route 172.16.70.0 255.255.255.0 serial 0/1/1
+ip route 172.16.20.0 255.255.255.0 172.16.40.1
+ip route 172.16.10.0 255.255.255.0 172.16.20.1
+exit
+
+
+
+R4
+
+
+en
+conf t
+int gigabitEthernet0/0/0
+description Link_to_host
+ip address 172.16.70.1 255.255.255.0
+no sh
+exit
+int serial 0/1/0
+description Link_to_R2
+clock rate 56000
+ip address 172.16.60.2 255.255.255.252
+no sh
+exit
+exit
+
+en
+conf t
+ip route 0.0.0.0 0.0.0.0 serial 0/1/0
+exit
+
+
+R1
+
+en
+conf t
+ip route 172.16.30.0 255.255.255.0 172.16.20.2
+ip route 172.16.40.0 255.255.255.0 172.16.20.2
+ip route 172.16.50.0 255.255.255.0 172.16.40.2
+ip route 172.16.60.0 255.255.255.0 172.16.40.2
+ip route 172.16.70.0 255.255.255.0 172.16.60.2
+exit
+
+R2
+
+en
+conf t
+ip route 172.16.10.0 255.255.255.0 serial 0/1/0
+ip route 172.16.50.0 255.255.255.0 serial 0/1/1
+ip route 172.16.60.0 255.255.255.0 172.16.40.2
+ip route 172.16.70.0 255.255.255.0 172.16.60.2
+exit
+
+R3
+
+en
+conf t
+ip route 172.16.30.0 255.255.255.0 serial 0/1/0
+ip route 172.16.70.0 255.255.255.0 serial 0/1/1
+ip route 172.16.20.0 255.255.255.0 172.16.40.1
+ip route 172.16.10.0 255.255.255.0 172.16.20.1
+exit
+
+
+R4
+
+en
+conf t
+ip route 0.0.0.0 0.0.0.0 serial 0/1/0
+exit
+
