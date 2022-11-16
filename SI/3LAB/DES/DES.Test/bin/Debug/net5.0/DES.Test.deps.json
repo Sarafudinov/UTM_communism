@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DES.Test/1.0.0": {
+        "dependencies": {
+          "DES": "1.0.0"
+        },
+        "runtime": {
+          "DES.Test.dll": {}
+        }
+      },
+      "DES/1.0.0": {
+        "runtime": {
+          "DES.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DES.Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DES/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
