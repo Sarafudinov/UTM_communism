@@ -1,0 +1,51 @@
+D:\pad\SmartProxyLab2\SyncNode\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\pad\SmartProxyLab2\SyncNode\bin\Debug\netcoreapp3.1\appsettings.json
+D:\pad\SmartProxyLab2\SyncNode\bin\Debug\netcoreapp3.1\SyncNode.exe
+D:\pad\SmartProxyLab2\SyncNode\bin\Debug\netcoreapp3.1\SyncNode.deps.json
+D:\pad\SmartProxyLab2\SyncNode\bin\Debug\netcoreapp3.1\SyncNode.runtimeconfig.json
+D:\pad\SmartProxyLab2\SyncNode\bin\Debug\netcoreapp3.1\SyncNode.runtimeconfig.dev.json
+D:\pad\SmartProxyLab2\SyncNode\bin\Debug\netcoreapp3.1\SyncNode.dll
+D:\pad\SmartProxyLab2\SyncNode\bin\Debug\netcoreapp3.1\SyncNode.pdb
+D:\pad\SmartProxyLab2\SyncNode\obj\Debug\netcoreapp3.1\SyncNode.csproj.AssemblyReference.cache
+D:\pad\SmartProxyLab2\SyncNode\obj\Debug\netcoreapp3.1\SyncNode.GeneratedMSBuildEditorConfig.editorconfig
+D:\pad\SmartProxyLab2\SyncNode\obj\Debug\netcoreapp3.1\SyncNode.AssemblyInfoInputs.cache
+D:\pad\SmartProxyLab2\SyncNode\obj\Debug\netcoreapp3.1\SyncNode.AssemblyInfo.cs
+D:\pad\SmartProxyLab2\SyncNode\obj\Debug\netcoreapp3.1\SyncNode.csproj.CoreCompileInputs.cache
+D:\pad\SmartProxyLab2\SyncNode\obj\Debug\netcoreapp3.1\SyncNode.MvcApplicationPartsAssemblyInfo.cache
+D:\pad\SmartProxyLab2\SyncNode\obj\Debug\netcoreapp3.1\staticwebassets\SyncNode.StaticWebAssets.Manifest.cache
+D:\pad\SmartProxyLab2\SyncNode\obj\Debug\netcoreapp3.1\staticwebassets\SyncNode.StaticWebAssets.xml
+D:\pad\SmartProxyLab2\SyncNode\obj\Debug\netcoreapp3.1\scopedcss\bundle\SyncNode.styles.css
+D:\pad\SmartProxyLab2\SyncNode\obj\Debug\netcoreapp3.1\SyncNode.RazorTargetAssemblyInfo.cache
+D:\pad\SmartProxyLab2\SyncNode\obj\Debug\netcoreapp3.1\SyncNode.dll
+D:\pad\SmartProxyLab2\SyncNode\obj\Debug\netcoreapp3.1\SyncNode.pdb
+D:\pad\SmartProxyLab2\SyncNode\obj\Debug\netcoreapp3.1\SyncNode.genruntimeconfig.cache
+D:\pad\SmartProxyLab2\SyncNode\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+D:\pad\SmartProxyLab2\SyncNode\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\pad\SmartProxyLab2\SyncNode\bin\Debug\netcoreapp3.1\Common.dll
+D:\pad\SmartProxyLab2\SyncNode\bin\Debug\netcoreapp3.1\Common.pdb
+D:\pad\SmartProxyLab2\SyncNode\obj\Debug\netcoreapp3.1\SyncNode.csproj.CopyComplete
+D:\univer\pad-lab\SmartProxyLab2 Garbuzov-Cerneac\SyncNode\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\univer\pad-lab\SmartProxyLab2 Garbuzov-Cerneac\SyncNode\bin\Debug\netcoreapp3.1\appsettings.json
+D:\univer\pad-lab\SmartProxyLab2 Garbuzov-Cerneac\SyncNode\bin\Debug\netcoreapp3.1\SyncNode.StaticWebAssets.xml
+D:\univer\pad-lab\SmartProxyLab2 Garbuzov-Cerneac\SyncNode\bin\Debug\netcoreapp3.1\SyncNode.exe
+D:\univer\pad-lab\SmartProxyLab2 Garbuzov-Cerneac\SyncNode\bin\Debug\netcoreapp3.1\SyncNode.deps.json
+D:\univer\pad-lab\SmartProxyLab2 Garbuzov-Cerneac\SyncNode\bin\Debug\netcoreapp3.1\SyncNode.runtimeconfig.json
+D:\univer\pad-lab\SmartProxyLab2 Garbuzov-Cerneac\SyncNode\bin\Debug\netcoreapp3.1\SyncNode.runtimeconfig.dev.json
+D:\univer\pad-lab\SmartProxyLab2 Garbuzov-Cerneac\SyncNode\bin\Debug\netcoreapp3.1\SyncNode.dll
+D:\univer\pad-lab\SmartProxyLab2 Garbuzov-Cerneac\SyncNode\bin\Debug\netcoreapp3.1\SyncNode.pdb
+D:\univer\pad-lab\SmartProxyLab2 Garbuzov-Cerneac\SyncNode\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+D:\univer\pad-lab\SmartProxyLab2 Garbuzov-Cerneac\SyncNode\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\univer\pad-lab\SmartProxyLab2 Garbuzov-Cerneac\SyncNode\bin\Debug\netcoreapp3.1\Common.dll
+D:\univer\pad-lab\SmartProxyLab2 Garbuzov-Cerneac\SyncNode\bin\Debug\netcoreapp3.1\Common.pdb
+D:\univer\pad-lab\SmartProxyLab2 Garbuzov-Cerneac\SyncNode\obj\Debug\netcoreapp3.1\SyncNode.csproj.AssemblyReference.cache
+D:\univer\pad-lab\SmartProxyLab2 Garbuzov-Cerneac\SyncNode\obj\Debug\netcoreapp3.1\SyncNode.GeneratedMSBuildEditorConfig.editorconfig
+D:\univer\pad-lab\SmartProxyLab2 Garbuzov-Cerneac\SyncNode\obj\Debug\netcoreapp3.1\SyncNode.AssemblyInfoInputs.cache
+D:\univer\pad-lab\SmartProxyLab2 Garbuzov-Cerneac\SyncNode\obj\Debug\netcoreapp3.1\SyncNode.AssemblyInfo.cs
+D:\univer\pad-lab\SmartProxyLab2 Garbuzov-Cerneac\SyncNode\obj\Debug\netcoreapp3.1\SyncNode.csproj.CoreCompileInputs.cache
+D:\univer\pad-lab\SmartProxyLab2 Garbuzov-Cerneac\SyncNode\obj\Debug\netcoreapp3.1\SyncNode.MvcApplicationPartsAssemblyInfo.cache
+D:\univer\pad-lab\SmartProxyLab2 Garbuzov-Cerneac\SyncNode\obj\Debug\netcoreapp3.1\staticwebassets\SyncNode.StaticWebAssets.Manifest.cache
+D:\univer\pad-lab\SmartProxyLab2 Garbuzov-Cerneac\SyncNode\obj\Debug\netcoreapp3.1\SyncNode.RazorTargetAssemblyInfo.cache
+D:\univer\pad-lab\SmartProxyLab2 Garbuzov-Cerneac\SyncNode\obj\Debug\netcoreapp3.1\SyncNode.csproj.CopyComplete
+D:\univer\pad-lab\SmartProxyLab2 Garbuzov-Cerneac\SyncNode\obj\Debug\netcoreapp3.1\SyncNode.dll
+D:\univer\pad-lab\SmartProxyLab2 Garbuzov-Cerneac\SyncNode\obj\Debug\netcoreapp3.1\SyncNode.pdb
+D:\univer\pad-lab\SmartProxyLab2 Garbuzov-Cerneac\SyncNode\obj\Debug\netcoreapp3.1\SyncNode.genruntimeconfig.cache

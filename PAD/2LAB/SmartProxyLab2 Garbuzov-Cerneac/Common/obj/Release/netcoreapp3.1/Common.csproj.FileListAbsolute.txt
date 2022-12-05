@@ -1,0 +1,10 @@
+D:\pad\SmartProxyLab2\Common\bin\Release\netcoreapp3.1\Common.deps.json
+D:\pad\SmartProxyLab2\Common\bin\Release\netcoreapp3.1\Common.dll
+D:\pad\SmartProxyLab2\Common\bin\Release\netcoreapp3.1\Common.pdb
+D:\pad\SmartProxyLab2\Common\obj\Release\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\pad\SmartProxyLab2\Common\obj\Release\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+D:\pad\SmartProxyLab2\Common\obj\Release\netcoreapp3.1\Common.AssemblyInfo.cs
+D:\pad\SmartProxyLab2\Common\obj\Release\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+D:\pad\SmartProxyLab2\Common\obj\Release\netcoreapp3.1\Common.dll
+D:\pad\SmartProxyLab2\Common\obj\Release\netcoreapp3.1\Common.pdb
+D:\pad\SmartProxyLab2\Common\obj\Release\netcoreapp3.1\Common.csproj.AssemblyReference.cache
